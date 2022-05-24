@@ -1,4 +1,4 @@
-¡No vale la pena lamentarse porque debes de esforzarte hasta que no halla pastel!
+¡No vale la pena lamentarse porque debes de esforzarte hasta que no haya pastel!
 
 <!---
 - 👋 Hi, I’m @Gil987654321
