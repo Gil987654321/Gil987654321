@@ -1,6 +1,6 @@
 Hola, soy José Gilberto Guzmán Gutiérrez y esta es mi cuenta secundaria.
 
-Si estas interesado en acceder a mi cuenta principal puedes hacerlo mediante este link:
+Si estas interesado en acceder a mi cuenta principal puedes hacerlo mediante el siguiente link:
 https://github.com/Gilberto-Guzman
 
 ![cat-typing](https://user-images.githubusercontent.com/92352192/173468500-01a8cf34-74c6-47ab-965e-edde98672415.gif)
