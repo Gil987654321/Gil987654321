@@ -1,7 +1,11 @@
-Hello, I am José Gilberto Guzmán Gutiérrez and this is my student account. 
+Hola, soy José Gilberto Guzmán Gutiérrez y esta es mi cuenta secundaria.
 
-If you're interested on access to my main account, please click the following link:
+Si estas interesado en acceder a mi cuenta principal puedes hacerlo mediante este link:
 https://github.com/Gilberto-Guzman
+
+![cat-typing](https://user-images.githubusercontent.com/92352192/173468500-01a8cf34-74c6-47ab-965e-edde98672415.gif)
+
+¡Nos vemos alla!
 <!---
 - 👋 Hi, I’m @Gil987654321
 - 👀 I’m interested in ...
