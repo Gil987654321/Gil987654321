@@ -1,6 +1,6 @@
 # Hola, soy José Gilberto Guzmán Gutiérrez y esta es mi cuenta secundaria.
 
-## Si estas interesado en acceder a mi cuenta principal puedes hacerlo mediante el siguiente link: https://github.com/Gilberto-Guzman
+## Si estas interesado en vizualizar mi progreso de las practicas de LaunchX, accede al siguiente enlace, este te enviara a mi cuenta principal: https://github.com/Gilberto-Guzman
 
 ![cat-typing](https://user-images.githubusercontent.com/92352192/173468500-01a8cf34-74c6-47ab-965e-edde98672415.gif)
 
@@ -19,6 +19,7 @@ https://github.com/Gilberto-Guzman
 
 ¡No vale la pena lamentarse porque debes de esforzarte hasta que no haya pastel!
 
+Si estas interesado en acceder a mi cuenta principal puedes hacerlo mediante el siguiente link: https://github.com/Gilberto-Guzman
 
 Gil987654321/Gil987654321 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
